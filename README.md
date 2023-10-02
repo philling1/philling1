@@ -9,6 +9,7 @@ Software engineer
 * 🧠  I'm learning nextjs
 * 🤝  I'm open to collaborating on Projects
 
+[![An image of @phil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/phil)](https://holopin.io/@phil)
 
 ### Skills:
 - Strong foundation in computer science principles and algorithms
